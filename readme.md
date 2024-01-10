@@ -1,14 +1,14 @@
 # CPE 1102L (PROGRAMMING LOGIC AND DESIGN)
-> exists as an archive
+> Exists as an archive.
 
-This repository contains all unfactored code and accompanying documentation of all outputs made for the above-mentioned subject as a first year Computer Engineer student in the University of San Carlos
+<br>
 
-all code is in C
+This repository contains all unfactored code and accompanying documentation of all outputs made for the above-mentioned subject as a first year Computer Engineer student in the University of San Carlos.
 
-documentation includes pseudocodes and flowcharts
+ - All code is in C.
+ - Documentation includes pseudocodes and flowcharts.
 
+<br>
 
-
-extra notes:
-
-especially in the first few outputs, some implement subpar programming practices. i did not bother to refactor such mistakes. we'll just say that "_it shows the journey i took to become a proficient programmer_ :D"
+> [!CAUTION]
+> Especially in the first few outputs, some implement subpar programming practices. i did not bother to refactor such mistakes. We'll just say that "_it shows the journey i took to become a proficient programmer_ :D".
