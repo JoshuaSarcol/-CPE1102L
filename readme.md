@@ -12,3 +12,13 @@ This repository contains all unfactored code and accompanying documentation of a
 
 > [!CAUTION]
 > Especially in the first few outputs, some implement subpar programming practices. i did not bother to refactor such mistakes. We'll just say that "_it shows the journey i took to become a proficient programmer_ :D".
+
+
+<br><br><br>
+
+Subject information: <br>
+<sub> Group: 08 </sub> <br>
+<sub> Schedule: MW 02:00 PM - 05:00 PM LBCEA3 </sub> <br>
+<sub> Faculty: An- Ki- Tr- Ds- </sub> <br>
+<sub> Final Grade: _< 1.50_ </sub> <br> <br>
+<sub> Concluding thoughts: overall positive ⭐⭐⭐⭐, Learned a lot </sub> 
