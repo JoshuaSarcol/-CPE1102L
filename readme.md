@@ -21,4 +21,4 @@ Subject information: <br>
 <sub> Schedule: MW 02:00 PM - 05:00 PM LBCEA3 </sub> <br>
 <sub> Faculty: An- Ki- Tr- Ds- </sub> <br>
 <sub> Final Grade: _< 1.50_ </sub> <br> <br>
-<sub> Concluding thoughts: overall positive ⭐⭐⭐⭐, Learned a lot </sub> 
+<sub> Concluding thoughts: overall positive ⭐⭐⭐⭐, learned a lot </sub> 
