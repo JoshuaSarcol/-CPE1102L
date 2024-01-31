@@ -22,3 +22,7 @@ Subject information: <br>
 <sub> Faculty: An- Ki- Tr- Ds- </sub> <br>
 <sub> Final Grade: _< 1.50_ </sub> <br> <br>
 <sub> Concluding thoughts: overall positive ⭐⭐⭐⭐, learned a lot </sub> 
+
+<br><br><br>
+
+[![](https://visitcount.itsvg.in/api?id=jjsnippets-CPE1102L&label=-CPE1102L&color=12&icon=3&pretty=false)](https://visitcount.itsvg.in)
